@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munazirdzuana
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning java,c++, and html css.
+- 🌱 I’m currently learning java,Phyton, c++,html, css, .
 - 💞️ I’m looking to collaborate on a project that makes me more reliable in coding
 - 📫 How to reach me munazir805@gmail.com
 
