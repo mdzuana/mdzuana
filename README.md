@@ -1,7 +1,5 @@
 
-- 👋 Hi, I’m @munazirdzuana
-- 👀 I’m interested in MobileDev, webDev, AI, GameDev.
-- 🌱 I’m currently learning java, javascript, Phyton, c++.
+- 👋 Hi, I’m munazir dzuana
 - 💞️ I’m looking to collaborate on a project that makes me more reliable in coding
 - 📫 How to reach me munazir805@gmail.com
 
